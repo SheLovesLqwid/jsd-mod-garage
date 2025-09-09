@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# this will be made private as its the repo for JSD mod garage!!!
+
 ## Getting Started
 
 First, run the development server:
